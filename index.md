@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Esta es la página de teoría de Ramsey
+
+El principio de la teoría de Ramsey es que el desoden completo no existe. Es decir, en cualquier desorden suficientemente grande hay partes ordenadas.
 
 You can use the [editor on GitHub](https://github.com/ReneAsc/Complementos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
